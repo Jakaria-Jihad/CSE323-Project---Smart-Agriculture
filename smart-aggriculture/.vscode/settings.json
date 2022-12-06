@@ -21,8 +21,8 @@
   "C_Cpp_Runner.compilerArgs": [],
   "C_Cpp_Runner.linkerArgs": [],
   "C_Cpp_Runner.includePaths": [
-    "c:/Users/User/OneDrive/Documents/CSE323/CSE323-Project---Smart-Agriculture/smart-aggriiculture/include",
-    "c:/Users/User/OneDrive/Documents/CSE323/CSE323-Project---Smart-Agriculture/smart-aggriiculture/src",
+    "c:/Users/User/OneDrive/Documents/CSE323/CSE323-Project---Smart-Agriculture/smart-aggriculture/include",
+    "c:/Users/User/OneDrive/Documents/CSE323/CSE323-Project---Smart-Agriculture/smart-aggriculture/src",
     "C:/Users/User/.platformio/packages/framework-arduinoespressif8266/tools/sdk/include",
     "C:/Users/User/.platformio/packages/framework-arduinoespressif8266/cores/esp8266",
     "C:/Users/User/.platformio/packages/toolchain-xtensa/include",
